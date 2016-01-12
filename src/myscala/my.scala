@@ -1,0 +1,5 @@
+package myscala
+
+object my {
+  
+}
